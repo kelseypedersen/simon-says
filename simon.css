@@ -1,0 +1,22 @@
+.button {
+  height: 50px;
+  width: 50px;
+}
+
+#green {
+  background-color: green;
+}
+
+#red {
+  background-color: red;
+  /*display: inline;*/
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+  /*display: inline;*/
+}
